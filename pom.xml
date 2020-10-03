@@ -112,13 +112,7 @@
 									<excludes>
 										<exclude>com.asimio.demo.Application</exclude>
 									</excludes>
-									<limits>
-										<limit>
-											<counter>LINE</counter>
-											<value>COVEREDRATIO</value>
-											<minimum>80%</minimum>
-										</limit>
-									</limits>
+									
 								</rule>
 							</rules>
 						</configuration>
